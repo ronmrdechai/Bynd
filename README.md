@@ -13,8 +13,8 @@ directives, see the [directives section](directives).
 #include <project/human.h>
 #include <project/child.h>
 
-using Person = project::human.h;
-using Child = project::child.h;
+using Person = project::human;
+using Child = project::child;
 
 bynd_wrappers {
     bynd_class(Human,
