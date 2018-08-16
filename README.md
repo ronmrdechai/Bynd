@@ -44,3 +44,7 @@ add_bynd_module(project
 
 This will create a `project.so` file in the current _CMake_ binary directory
 which can be imported to Python.
+
+## Directives
+
+TBD
