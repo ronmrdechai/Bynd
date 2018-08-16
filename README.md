@@ -13,7 +13,7 @@ directives, see the [directives section](directives).
 #include <project/human.h>
 #include <project/child.h>
 
-using Person = project::human;
+using Human = project::human;
 using Child = project::child;
 
 bynd_wrappers {
